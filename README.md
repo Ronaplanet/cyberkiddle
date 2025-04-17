@@ -15,5 +15,5 @@ bash cyberkid.sh
 ## Welcome script kiddle, 
 Learn more: https://cyberkiddle.com
 ![Screenshot From 2025-04-16 23-41-52](https://github.com/user-attachments/assets/84831d4d-dec8-498f-8146-43713dfac00c)
-# Happy hacing kid!
+# Happy hacking kid!
 
